@@ -3,7 +3,7 @@
 int main()
 {	
 	int x = 50;
-	printf("\nHello world!");
+	printf("\nWelcome to number program!");
 	printf("\nPlease enter a number: ");
 	scanf("%d", &x);
 	printf("\nYour number is: %d", x);
